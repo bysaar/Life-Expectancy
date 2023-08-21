@@ -1,2 +1,4 @@
-# LifeExpectancy
-Linear regression coding assignment
+# Life Expectancy
+Linear regression coding assignment for the "Statistical Inference and Data Mining" masters level course.
+
+Link to contest: https://www.kaggle.com/competitions/kaggle1lifeexpectancy/overview
